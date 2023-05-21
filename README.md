@@ -25,6 +25,7 @@
 - [Low Poly 3D and Pixel 2D RPG Game Assets](https://devilsworkshop.itch.io/low-poly-3d-and-pixel-2d-rpg-game-assets)
 - [Gamepad UI](https://greatdocbrown.itch.io/gamepad-ui)
 - [elbolilloduro](https://elbolilloduro.itch.io/)
+- [anna anthropy's World of Fonts](https://w.itch.io/world-of-fonts)
 - [Kenney Game Assets](https://www.kenney.nl/assets)
 - [OpenGameArt](https://opengameart.org/)
 - [Unsplash](https://unsplash.com/)
