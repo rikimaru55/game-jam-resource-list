@@ -63,6 +63,7 @@
 - [Modular First Person Controller](https://assetstore.unity.com/packages/3d/characters/modular-first-person-controller-189884)
 - [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 - [Huge FBX Mocap Library](https://assetstore.unity.com/packages/3d/animations/huge-fbx-mocap-library-part-1-19991)
+- [Free emojis pixel art](https://assetstore.unity.com/packages/2d/gui/icons/free-emojis-pixel-art-231243)
 
 ## Collaboration Tools
 
