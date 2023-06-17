@@ -34,6 +34,7 @@
 - [Incompetech](https://incompetech.com/music/royalty-free/music.html)
 - [FreeSound](https://freesound.org/)
 - [Google Fonts](https://fonts.google.com/)
+- [GB Camera For Unity](https://roguenoodle.itch.io/gbcamera-for-unity)
 
 ## Art Creation
 
