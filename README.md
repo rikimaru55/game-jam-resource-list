@@ -81,6 +81,26 @@
 - [Reedsy](https://blog.reedsy.com/plot-generator/) - Having trouble thinking of a plot for your game, you can use this tool to generate some for you.
 - [49 Ideas for Game Clones](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/) - List of simple games with mechanics explanations. Great place to start if you have no idea what to build.
 
+## Books
+
+*Game Design*
+**Koster, R. (2013). Theory of Fun for Game Design, 2nd Edition. O'Reilly Media, Inc. ISBN: 9781449363178**
+A gentle introduction to game design, and what makes humans like games. Non-technical. Highly recommended.
+
+**[Extra Credits](https://www.youtube.com/@extracredits/featured)**
+Absolute classic, just watch.
+
+**Baur, W., Greenwood, E., Cook, M., Stackpole, M. A., Walsh, W., Baker, K., McComb, C., Logue, N. (2012). Complete Kobold Guide to Game Design. Open Design LLC. ISBN-10: 1936781069, ISBN-13: 978-1936781065.**
+
+Any of the Kobold guides are good, but this is a good one to start with.
+
+*Writing*
+**Lamott, A. (1995). Bird by Bird: Some Instructions on Writing and Life. Anchor. ISBN: 9780385480017.**
+Just a really good book on writing.
+
+**Bell, J. S. (2017). How to Write Pulp Fiction (Bell on Writing). ASIN: B0771SP274. Compendium Press**
+Very practical advice on writing.
+
 ## Tips
 
 - Don't over exert yourself. This ought to be fun. Make sure to get plenty of sleep, feed yourself, and to take regular breaks to rest your eyes and stretch. Once every hour should be enough. Set an alarm if it helps.
