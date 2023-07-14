@@ -1,4 +1,4 @@
-# RR Cooper's Big Bouncy List of resources for game jams and marmalades
+# PoutinePapi's Big Bouncy List of resources for game jams and marmalades
 
 ![Logo](/logo.png "Logo")
 
@@ -90,6 +90,6 @@
 
 ## Copyright
 
-Originally written by [MrQuilo/RRCooper](https://twitter.com/MrQuilo)
+Originally written by [PoutinePapi](https://twitter.com/MrQuilo)
 
 Except for the logo, all content in this repo is under [CC0](http://creativecommons.org/publicdomain/zero/1.0/) so feel free to fork, extend, or modify it.
