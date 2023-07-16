@@ -91,7 +91,6 @@ A gentle introduction to game design, and what makes humans like games. Non-tech
 Absolute classic, just watch.
 
 **Baur, W., Greenwood, E., Cook, M., Stackpole, M. A., Walsh, W., Baker, K., McComb, C., Logue, N. (2012). Complete Kobold Guide to Game Design. Open Design LLC. ISBN-10: 1936781069, ISBN-13: 978-1936781065.**
-
 Any of the Kobold guides are good, but this is a good one to start with.
 
 *Writing*
